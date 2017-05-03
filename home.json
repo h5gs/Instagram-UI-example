@@ -1,6 +1,8 @@
 {
   "$jason": {
     "head": {
+     "offline": "true",
+
       "data": {
         "posts": [{
           "type": "stories",
